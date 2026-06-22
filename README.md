@@ -50,4 +50,3 @@ services/queueService.js   — queue logic + wait time calculation
 2. Issue token #3 — patient sees "2 ahead, ~20 min."
 3. Click **Call next** twice — patient's React screen updates instantly with no refresh.
 
-That live drop in wait time is the moment a clinic owner says *"I want this."*
